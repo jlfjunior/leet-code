@@ -20,7 +20,7 @@ contiguous memory locations, allowing constant-time access by index.
 
 ### Solved Problems
 
-| #  | Problem               | Difficulty | Solution | Pattern | Link |
-|----|-----------------------|------------|----------|-----|------|
-| 1  | Two Sum               | Easy       | [`TwoSum.cs`](./LeetCode/Arrays/TwoSum.cs) | Hash Table | https://leetcode.com/problems/two-sum/ |
-| 14 | Longest Common Prefix | Easy       | [`LongestCommonPrefix.cs`](./LeetCode/Arrays/LongestCommonPrefix.cs) | Vertical Scanning | https://leetcode.com/problems/longest-common-prefix/ |
+| #  | Problem               | Difficulty | Solution                                                             | Pattern                 | Link |
+|----|-----------------------|------------|----------------------------------------------------------------------|-------------------------|------|
+| 1  | Two Sum               | Easy       | [`TwoSum.cs`](./LeetCode/Arrays/TwoSum.cs)                           | Hash Table, Brute Force | https://leetcode.com/problems/two-sum/ |
+| 14 | Longest Common Prefix | Easy       | [`LongestCommonPrefix.cs`](./LeetCode/Arrays/LongestCommonPrefix.cs) | Vertical Scanning       | https://leetcode.com/problems/longest-common-prefix/ |
