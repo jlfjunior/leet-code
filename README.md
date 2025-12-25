@@ -24,7 +24,8 @@ contiguous memory locations, allowing constant-time access by index.
 |----|-----------------------|------------|----------------------------------------------------------------------|-------------------------|------|
 | 1  | Two Sum               | Easy       | [`TwoSum.cs`](./LeetCode/Arrays/TwoSum.cs)                           | Hash Table, Brute Force | https://leetcode.com/problems/two-sum/ |
 | 14 | Longest Common Prefix | Easy       | [`LongestCommonPrefix.cs`](./LeetCode/Arrays/LongestCommonPrefix.cs) | Vertical Scanning       | https://leetcode.com/problems/longest-common-prefix/ |
-| 26 | Remove Duplicates     | Easy       | [`RemoveDuplicates.cs`](./LeetCode/Arrays/RemoveDuplicates.cs)    | Two Pointer             | https://leetcode.com/problems/remove-duplicates-from-sorted-array/ |
+| 26 | Remove Duplicates     | Easy       | [`RemoveDuplicates.cs`](./LeetCode/Arrays/RemoveDuplicates.cs)       | Two Pointer             | https://leetcode.com/problems/remove-duplicates-from-sorted-array/ |
+| 27 | Remove Element        | Easy       | [`RemoveElement.cs`](./LeetCode/Arrays/RemoveElement.cs)          | Two Pointer             | https://leetcode.com/problems/remove-element/ |
 
 ## Techniques
 
